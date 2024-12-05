@@ -7,7 +7,7 @@ export interface Aluno {
   nome: string;
   email: string;
   idade: number;
-  responsavelNome: string;
+  nomeDoResponsavel: string;
   pontuacao: number;
 }
 
